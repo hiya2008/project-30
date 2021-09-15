@@ -1,2 +1,2 @@
-# project-30
-by hiya rawal
+# zombie-crush-assets
+assests for crush the zombie game
